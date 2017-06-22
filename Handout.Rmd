@@ -1,0 +1,81 @@
+---
+title: "Student Work Samples"
+author: "Beckman & delMas"
+date: "7/4/2017"
+output: pdf_document
+---
+
+# Student Work Samples
+
+### 1. Amelia (R_3saVYW3fYN5W2mn)
+
+> A random sample of 1000 U.S. adults were asked which Twix bar they preferred, the left Twix or the right Twix. 535 people said they like the left Twix better. Is this enough evidence to say that the population of U.S. adults have a preference between left Twix and right Twix?  /  / sample: 1000 U.S. adults / population: all U.S. adults / statistic: p hat = the sample proportion of 1000 U.S. adults that prefer left Twix = 535/1000 = 0.535 / parameter: p = the population proportion of all U.S. adults that prefer left Twix = unknown value / 
+
+### 2. Benjamin (R_eWGvzQ7XsQDA6wp)
+
+> A hypothetical scenario explores the rates of underage student drinking on campus.  /  / A survey was given to all students enrolled at a local university under the age of 21 asking about their drinking habits. Of the responses, a random sampling was obtained that was less than 10% of the total university population under the age of 21. The responses showed that an average of 82% of underage students at the local university drank alcohol. 
+
+### 3. Charlotte (R_1pL3jlsrp2upGeP)
+
+> Research question: does getting paid for school have an effect on grades? / sample: 30 students out of the each class of FSU's undergraduate population / population: FSU undergraduate population / Statistic: unsure what this means...maybe if grades were higher for those paid than unpaid / parameter:one semester
+
+### 4. Hunter (R_1HoPMWzhGDYPn7i)
+
+> For this experiment we are going to look at the age at which students enter college in France regarding their gender. / The research question of this experiment is: what is the average age at which French students enter college, regarding gender in their country?  / The population is France students. The sample could be to take 10 female students in each college in France and 10 male students in each college in France. All should be in their first year and record their age, when they started and their. We use this sample to represent all the population.   / The independent variable age at which student enter college and the dependent variable is gender.   / To test this research question we would use an independent sample t-test, in order to do so we need to check the conditions, if they are met we can run the independent sample t-test. The conditions are: first the randomization condition, second the independence assumption, third the independent groups assumption and fourth the nearly normal condition.
+
+### 5. Isla (R_1LNLLTccaJs25mx)
+
+> What is the correlation between the amount of dog food a dog eats and weight gain. The population for this study would be all dogs in the United States with a sample of 5,000 healthy dogs. 
+
+### 6. Jack (R_cYM0p7WZeWF8Ryx) 
+
+> Finding out the average weight for all the ISU students in the College of Human Sciences. The population in this case would be all the ISU students in the College of Human Sciences and the parameter is the average weight. Since I want to know what the average weight is, I will have to ask every single ISU student in the College of Human Sciences what their weight is then take the average. But, since I don't have enough time to ask every single student at the College of Human Sciences I have to take the sample. Since the sample is a subgroup out of the population, so I would randomly ask ISU students in the College of Human Sciences, I will not pick the beginning students that walk through the door, I will randomly ask students. Then from the randomly chosen ISU students, i will calculate the average weight which is the statistic. Statistics can have errors, and change while the parameter does not change and is the true score. 
+
+### 7. Liam (R_1QMxWMmq4n6w9nS) 
+
+> Are more people following a spiritual path compared to organized religious path? /  / Sample will be drawn randomly from the population that answered my questionnaire. /  / The populations includes all people from various social media groups that answer my questionnaire. /  / Populations parameter would be what path do they follow either religious or spiritual path. /  / The statistic that will be used is hypothesis test and confidence interval.
+
+### 8. Mia (R_1nPniNgSRzuM7TW)
+
+> How many from a sample of 500 USA adults voted for President Barrack Obama in the election.  / Population- all adults in USA / Sample- 500 random USA adults / Statistic- from a sample of 500 USA adults, a percentage voted for Obama, real number / Parameter- population proportion of all USA adults that voted for Obama
+
+### 9. Olivia (R_2zMhPP9B18JSJzZ)
+
+> We want to know the probability of a suburban household having a pet, and the number of pets each household contains. We would study a large amount of suburban households and observe whether or not each household has a pet, and how many. The population being so large, we would want a large sample size so as to increase out confidence in the results. Therefore we would sample over 30 houses and conduct a z-test with our results to find the probability of a household containing one, two, three, or 4 and above pets. 
+
+\newpage
+
+# Reference Materials
+
+### Instructions
+
+- Each group has a **random sequence** to review from the 9 alphabetical work samples in the handout
+- **Please make notes in the Google Doc for each student as you review**
+- focus on big picture "stages of development" and "emergent understanding" rather than the nuance of what students attribute to each concept 
+- The last page shows the text of the Rossman-Chance task & the questions for your consideration while reviewing each work sample (you might tear it off for easy access).
+
+Note 1: the "/" character was inserted by the assessment software representing the newline character
+
+Note 2: try not to spend more than about 3 minutes on each student; aim to review 3 students in about 10 minutes, but continue on if there's additional time 
+
+### Questions while reviewing work samples (**please note remarks in Google Doc**):
+
+- What does the student seem to describe as the sample, population, statistic, & parameter?
+- What might this say about emergent understanding related to statistical **modeling** for this student?
+- What might this say about emergent understanding related to statistical **inference** for this student?
+- What might this illustrate (if anything) about stages of development among students?
+
+
+### Text of Rossman-Chance Task 
+
+An underlying principle of all statistical inference is that one uses sample statistics to learn something about the unknown population parameters. Demonstrate that you understand this statement by describing a realistic scenario in which you might use a sample statistic to infer something about a population parameter. For the context of your example, clearly identify:  
+
+- the research question for your scenario,
+- the sample,
+- the population,
+- the statistic, and
+- the parameter.
+
+Be as specific as possible, and do not use any example that was discussed in your statistics course.
+
+
