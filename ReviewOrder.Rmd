@@ -1,0 +1,44 @@
+---
+title: ""
+
+output: pdf_document
+---
+
+### Key: 1-Amelia; 2-Benjamin; 3-Charlotte; 4-Hunter; 5-Isla; 6-Jack; 7-Liam; 8-Mia; 9-Olivia 
+
+#  1-Amelia; 4-Hunter; 7-Liam; 9; 2; 5; 3; 6; 8
+Please review in sequence and note your observations in the Google Doc associated with each student.
+
+#  2-Benjamin; 5-Isla; 8-Mia; 6; 4; 3; 9; 1; 7
+Please review in sequence and note your observations in the Google Doc associated with each student.
+
+
+#  3-Charlotte; 6-Jack; 9-Olivia; 7; 5; 2; 9; 1; 6
+Please review in sequence and note your observations in the Google Doc associated with each student.
+
+
+#  4-Hunter; 8-Mia; 3-Charlotte; 5; 2; 6; 9; 1; 7
+Please review in sequence and note your observations in the Google Doc associated with each student.
+
+
+#  5-Isla; 9-Olivia; 1-Amelia; 6; 4; 2; 7; 3; 8
+Please review in sequence and note your observations in the Google Doc associated with each student.
+
+
+#  6-Jack; 7-Liam; 2-Benjamin; 9; 5; 1; 8; 4; 3
+Please review in sequence and note your observations in the Google Doc associated with each student.
+
+
+#  7-Liam; 3-Charlotte; 5-Isla; 8; 6; 1; 4; 2; 9
+Please review in sequence and note your observations in the Google Doc associated with each student.
+
+
+#  8-Mia; 1-Amelia; 6-Jack; 9; 5; 2; 4; 3; 7
+Please review in sequence and note your observations in the Google Doc associated with each student.
+
+
+#  9-Olivia; 2-Benjamin; 4-Hunter; 3; 8; 7; 5; 6; 1
+Please review in sequence and note your observations in the Google Doc associated with each student.
+
+
+
