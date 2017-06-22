@@ -21,12 +21,15 @@ Typical assessment tasks in introductory statistics often relies on tasks that p
 
 This study explores an alternative task adapted from Rossman & Chance (2001) [^1] that explicitly presents students an elementary abstract model relating population, sample, parameter, and statistic, and then prompts the student to translate these concepts into a context of their own invention. 
 
-The study data consist of free-text narrative responses from a (inter)national sample of more than 1600 introductory statistics students from the United States (and one class from the Netherlands).  
+The study data consist of free-text narrative responses from a (inter)national sample of more than 1600 introductory statistics students from the United States (and one class section from the Netherlands).  
 
 [^1]: Rossman, A. J., & Chance, B. L. (2001). *Workshop statistics: Discovery with data* (2nd ed.). Emeryville, CA: Key College Publishing.
 
-## Rossman-Chance Task
+## Rossman-Chance Task 
 
+The RC task as it would have appeared to students during the ISTUDIO assessment:
+
+![](RC-Task.png)
 
 
 ## Goal
@@ -45,7 +48,9 @@ This definition is consistent with others in the literature (e.g. McCullagh (200
 
 - ISTUDIO Assessment developed and administered in May 2015  
     - 7 open-ended tasks with one or more parts  
-    - Rossman-Chance task administered 6th 
+    - Rossman-Chance task administered 6th  
+    - ISTUDIO was administered electronically through a web-browser
+    - Responses stored electronically as free text in a CSV
 - sample characteristics  
     - 14 different instructors  
     - 15 institutions  
@@ -59,16 +64,15 @@ This definition is consistent with others in the literature (e.g. McCullagh (200
 ## Student work samples
 
 - Work together in groups of 2-3 
-- Everyone gets a notesheet showing ~5-6 student responses
-- Each group assigned 3 randomly selected student responses to review
-- **Make notes in the Google Doc for your assigned student responses**
-    - try not to spend more than 3 min on any individual response
-    - devote more attention to "stages of development" and "emergent understanding" than trying to determining what students attribute to each concept
-- After 10 minutes we'll use the balance of the session for large group discussion of: 
+- Everyone has a handout showing 9 student responses  
+- **Each group has a random sequence to review** (try to do 3, but continue if there's time)
+- **Please make notes in the Google Doc for each student as you review**
+    - try not to spend more than 3-4 min on any individual response
+    - devote more attention big picture "stages of development" and "emergent understanding" rather than the nuance of what students attribute to each concept 
+- After ~10 minutes we'll reconvene for large group discussion of: 
     - interesting observations from individual work samples
     - the nature of modeling & inference
     - implications for teaching & assessment
-
 
 #### Questions while reviewing work samples (**please note remarks in Google Doc**):
 
@@ -82,18 +86,18 @@ This definition is consistent with others in the literature (e.g. McCullagh (200
 #### Modeling vs Inference
 
 - What's the difference between inference and modeling? 
-- Is it possible to understand inference, but not modeling?
-- Is it possible to understand modeling, but not inference?
+- Is it possible to understand inference, but not modeling? (please explain)
+- Is it possible to understand modeling, but not inference? (please explain)
 
 #### Implications 
 
-- What does all of this mean (if anything) for teaching practice?
-- What does all of this mean (if anything) for assessment?
+- What does all of this mean (if anything) for **teaching practice**?
+- What does all of this mean (if anything) for **assessment**?
 
 
 ## Backup Slides
 
-## Student 1 (R_3saVYW3fYN5W2mn)
+## 1. Amelia (R_3saVYW3fYN5W2mn)
 
 > A random sample of 1000 U.S. adults were asked which Twix bar they preferred, the left Twix or the right Twix. 535 people said they like the left Twix better. Is this enough evidence to say that the population of U.S. adults have a preference between left Twix and right Twix?  /  / sample: 1000 U.S. adults / population: all U.S. adults / statistic: p hat = the sample proportion of 1000 U.S. adults that prefer left Twix = 535/1000 = 0.535 / parameter: p = the population proportion of all U.S. adults that prefer left Twix = unknown value / [ID: R_3saVYW3fYN5W2mn] 
 
@@ -101,7 +105,7 @@ This definition is consistent with others in the literature (e.g. McCullagh (200
 
 - scored as a complete response including reasonable identification of sample, population, statistic, and parameter
 
-## Student 2 (R_eWGvzQ7XsQDA6wp)
+## 2. Benjamin (R_eWGvzQ7XsQDA6wp)
 
 > A hypothetical scenario explores the rates of underage student drinking on campus.  /  / A survey was given to all students enrolled at a local university under the age of 21 asking about their drinking habits. Of the responses, a random sampling was obtained that was less than 10% of the total university population under the age of 21. The responses showed that an average of 82% of underage students at the local university drank alcohol. 
 
@@ -110,7 +114,7 @@ This definition is consistent with others in the literature (e.g. McCullagh (200
 - Sample, Population, Statistic OK
 - Parameter missing
 
-## Student 3 (R_1pL3jlsrp2upGeP)
+## 3. Charlotte (R_1pL3jlsrp2upGeP)
 
 > Research question: does getting paid for school have an effect on grades? / sample: 30 students out of the each class of FSU's undergraduate population / population: FSU undergraduate population / Statistic: unsure what this means...maybe if grades were higher for those paid than unpaid / parameter:one semester
 
@@ -120,7 +124,7 @@ This definition is consistent with others in the literature (e.g. McCullagh (200
 - Statistic => RQ; 
 - Parameter => study design detail
 
-## Student 4 (R_1HoPMWzhGDYPn7i)
+## 4. Hunter (R_1HoPMWzhGDYPn7i)
 
 > For this experiment we are going to look at the age at which students enter college in France regarding their gender. / The research question of this experiment is: what is the average age at which French students enter college, regarding gender in their country?  / The population is France students. The sample could be to take 10 female students in each college in France and 10 male students in each college in France. All should be in their first year and record their age, when they started and their. We use this sample to represent all the population.   / The independent variable age at which student enter college and the dependent variable is gender.   / To test this research question we would use an independent sample t-test, in order to do so we need to check the conditions, if they are met we can run the independent sample t-test. The conditions are: first the randomization condition, second the independence assumption, third the independent groups assumption and fourth the nearly normal condition.
 
@@ -129,7 +133,7 @@ This definition is consistent with others in the literature (e.g. McCullagh (200
 - Sample and Population are OK 
 - No clear mention of statistic or parameter, but describes hypothesis test in some detail
 
-## Student 5 (R_1LNLLTccaJs25mx)
+## 5. Isla (R_1LNLLTccaJs25mx)
 
 > What is the correlation between the amount of dog food a dog eats and weight gain. The population for this study would be all dogs in the United States with a sample of 5,000 healthy dogs. 
 
@@ -138,7 +142,7 @@ This definition is consistent with others in the literature (e.g. McCullagh (200
 - Sample and Population OK
 - No mention of statistic or parameter at all
 
-## Student 6 chosen at random (R_cYM0p7WZeWF8Ryx) 
+### 6. Jack (R_cYM0p7WZeWF8Ryx) 
 
 > Finding out the average weight for all the ISU students in the College of Human Sciences. The population in this case would be all the ISU students in the College of Human Sciences and the parameter is the average weight. Since I want to know what the average weight is, I will have to ask every single ISU student in the College of Human Sciences what their weight is then take the average. But, since I don't have enough time to ask every single student at the College of Human Sciences I have to take the sample. Since the sample is a subgroup out of the population, so I would randomly ask ISU students in the College of Human Sciences, I will not pick the beginning students that walk through the door, I will randomly ask students. Then from the randomly chosen ISU students, i will calculate the average weight which is the statistic. Statistics can have errors, and change while the parameter does not change and is the true score. 
 
@@ -148,7 +152,8 @@ This definition is consistent with others in the literature (e.g. McCullagh (200
 - Parameter => partial credit
 - "true score" seems vague, and not explictly connected to population mean 
 
-## Student 7 chosen at random (R_1QMxWMmq4n6w9nS) 
+## 7. Liam (R_1QMxWMmq4n6w9nS) 
+
 > Are more people following a spiritual path compared to organized religious path? /  / Sample will be drawn randomly from the population that answered my questionnaire. /  / The populations includes all people from various social media groups that answer my questionnaire. /  / Populations parameter would be what path do they follow either religious or spiritual path. /  / The statistic that will be used is hypothesis test and confidence interval.
 
 #### Scoring Note
@@ -158,7 +163,7 @@ This definition is consistent with others in the literature (e.g. McCullagh (200
 - Statistic => HT/CI
 - Parameter => variable 
 
-## Student 8 chosen at random (R_1nPniNgSRzuM7TW)
+## 8. Mia (R_1nPniNgSRzuM7TW)
 
 > How many from a sample of 500 USA adults voted for President Barrack Obama in the election.  / Population- all adults in USA / Sample- 500 random USA adults / Statistic- from a sample of 500 USA adults, a percentage voted for Obama, real number / Parameter- population proportion of all USA adults that voted for Obama
 
@@ -166,7 +171,7 @@ This definition is consistent with others in the literature (e.g. McCullagh (200
 
 - scored as a complete response including reasonable identification of sample, population, statistic, and parameter
 
-## Student 9 chosen at random (R_2zMhPP9B18JSJzZ)
+## 9. Olivia (R_2zMhPP9B18JSJzZ)
 
 > We want to know the probability of a suburban household having a pet, and the number of pets each household contains. We would study a large amount of suburban households and observe whether or not each household has a pet, and how many. The population being so large, we would want a large sample size so as to increase out confidence in the results. Therefore we would sample over 30 houses and conduct a z-test with our results to find the probability of a household containing one, two, three, or 4 and above pets. 
 
