@@ -1,3 +1,20 @@
+# Assessing student understanding of statistical models connecting data, chance, and context
+
+Matt Beckman (presenter)  
+*Penn State University (USA)*
+ 
+Bob delMas  
+*University of Minnesota (USA)*
+  
+### [Slides](BeckmanSlidesSRTL10.html)
+
+### [Handout with Student Work Samples](Handout.pdf)
+
+### Google Docs associated with Student Work Samples:
+
+(coming soon...)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mdbeckman/SRTL-10/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
