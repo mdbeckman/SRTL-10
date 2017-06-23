@@ -19,7 +19,7 @@ Bob delMas
 
 ### [Link to Handout with Student Work Samples](Handout.pdf)
 
-### Google Docs associated with Student Work Samples:
+### Student Work Samples for Review:
 
 [1. Amelia](https://docs.google.com/document/d/1H-b_YiKETfPPqCRAWdWHFzBdoIGETg5sCb1xWlb-MnY/edit?usp=sharing)  
 [2. Benjamin](https://docs.google.com/document/d/1vJhPoB5KozHdTgkqBUWKkh_ocSzIOnePuqDnRpO5b1A/edit?usp=sharing)  
