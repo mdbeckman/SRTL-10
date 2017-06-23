@@ -17,9 +17,9 @@ Bob delMas
 
 ### [Link to Slides](BeckmanSlidesSRTL10.html)
 
-### [Link to Handout with Student Work Samples](Handout.pdf)
+### [Link to Handout](Handout.pdf)
 
-### Student Work Samples for Review:
+## Student Work Samples for Review:
 
 [1. Amelia](https://docs.google.com/document/d/1H-b_YiKETfPPqCRAWdWHFzBdoIGETg5sCb1xWlb-MnY/edit?usp=sharing)  
 [2. Benjamin](https://docs.google.com/document/d/1vJhPoB5KozHdTgkqBUWKkh_ocSzIOnePuqDnRpO5b1A/edit?usp=sharing)  
