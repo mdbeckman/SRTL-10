@@ -6,18 +6,18 @@ Matt Beckman (presenter)
 Bob delMas  
 *University of Minnesota (USA)*
 
-<break>
+<br>
+<br>
 
-## Resources
+## Handy Resources
 
-
-### Presentation Webpage: [https://mdbeckman.github.io/SRTL-10/](https://mdbeckman.github.io/SRTL-10/)
+### Presentation Website (& QR Code): [https://mdbeckman.github.io/SRTL-10/](https://mdbeckman.github.io/SRTL-10/)
 
 <a rel='nofollow' href='http://www.qrcode-generator.de' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fmdbeckman.github.io%2FSRTL-10%2F&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
 
-### [Slides](BeckmanSlidesSRTL10.html)
+### [Link to Slides](BeckmanSlidesSRTL10.html)
 
-### [Handout with Student Work Samples](Handout.pdf)
+### [Link to Handout with Student Work Samples](Handout.pdf)
 
 ### Google Docs associated with Student Work Samples:
 
