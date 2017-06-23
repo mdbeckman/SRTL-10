@@ -1,11 +1,19 @@
-# Assessing student understanding of statistical models connecting data, chance, and context
+## Assessing student understanding of statistical models connecting data, chance, and context
 
 Matt Beckman (presenter)  
 *Penn State University (USA)*
  
 Bob delMas  
 *University of Minnesota (USA)*
-  
+
+
+## Resources
+
+
+### Presentation Webpage: [](https://mdbeckman.github.io/SRTL-10/)
+
+<a rel='nofollow' href='http://www.qrcode-generator.de' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fmdbeckman.github.io%2FSRTL-10%2F&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
+
 ### [Slides](BeckmanSlidesSRTL10.html)
 
 ### [Handout with Student Work Samples](Handout.pdf)
@@ -21,6 +29,7 @@ Bob delMas
 7. [Liam](https://docs.google.com/document/d/1OFz9Zh3gb-TrjqRGKQ78Yew6mj58e-_fZQChOt5cj08/edit?usp=sharing)  
 8. [Mia](https://docs.google.com/document/d/1uFTTHB3v-Gf3urOi9ULQzpHBph9AI3x0g5MOr_8BncQ/edit?usp=sharing)  
 9. [Olivia](https://docs.google.com/document/d/1s2ySyO-lAvPd-m4ulEoggGaBV-WMVhdp_g0yKwne4W0/edit?usp=sharing)  
+
 
 
 ## Welcome to GitHub Pages
