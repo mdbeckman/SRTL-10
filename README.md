@@ -21,9 +21,9 @@ Bob delMas
 
 <!-- ### [Link to Scoring Guidance](handoutDocs/RC_Scoring_Guidance.html) -->
 
-## Google Doc Links for Student Work Sample Remarks:
+## Student Work Sample Remarks:
 
-Please review work samples in the randomized order provided to your group. 
+Please review work samples in the randomized order provided to your group.  Each link corresponds to a Google Doc where each group can capture remarks as they review the associated work sample.
 
 [1. **Amelia** (Link)](https://docs.google.com/document/d/1H-b_YiKETfPPqCRAWdWHFzBdoIGETg5sCb1xWlb-MnY/edit?usp=sharing)  
 [2. **Benjamin** (Link)](https://docs.google.com/document/d/1vJhPoB5KozHdTgkqBUWKkh_ocSzIOnePuqDnRpO5b1A/edit?usp=sharing)  
