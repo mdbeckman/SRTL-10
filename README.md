@@ -37,4 +37,4 @@ Please review work samples in the randomized order provided to your group.  Each
 [9. **Olivia's** (Link)](https://docs.google.com/document/d/1s2ySyO-lAvPd-m4ulEoggGaBV-WMVhdp_g0yKwne4W0/edit?usp=sharing)  
 
 
-### [Large Group Discussion (Link)](https://docs.google.com/document/d/1scPx7FBYCHbbO-bMWuNjGOr0GVFyASemOd0wTO26h4U/edit?usp=sharing)
+### [General Discussion Notes (Link)](https://docs.google.com/document/d/1scPx7FBYCHbbO-bMWuNjGOr0GVFyASemOd0wTO26h4U/edit?usp=sharing)
