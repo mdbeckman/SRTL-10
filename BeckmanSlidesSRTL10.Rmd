@@ -16,6 +16,19 @@ date: |
 output: slidy_presentation
 ---
 
+## Outline
+
+#### Please note or scan URL for use later on in the session: 
+
+#### [https://mdbeckman.github.io/SRTL-10/](https://mdbeckman.github.io/SRTL-10/)
+
+<a rel='nofollow' href='http://www.qrcode-generator.de' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fmdbeckman.github.io%2FSRTL-10%2F&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
+
+- (5 mins) introduction/refresher
+- (10-12 mins) Small groups (3) review a random subset of student work samples
+- (0-5 mins) Large group sharing for observations about individual work samples reviewed 
+- (10-15 mins) Discussion questions about implications for research, teaching, & assessment  
+
 ## Introduction 
 
 Assessment tasks in introductory statistics often present data in context and ask students and describe an appropriate model. 
@@ -82,7 +95,7 @@ For the purpose of this study, “statistical model” can be understood to mean
     - the nature of modeling & inference
     - implications for teaching & assessment
 
-#### [Webpage link (Google Docs & Handout)]()
+#### [Webpage link (Google Docs & Handout)](http://mdbeckman.github.io/SRTL-10/)
 
 <a rel='nofollow' href='http://www.qrcode-generator.de' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fmdbeckman.github.io%2FSRTL-10%2F&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
 
@@ -96,6 +109,10 @@ For the purpose of this study, “statistical model” can be understood to mean
 
 
 ## Discussion Questions 
+
+#### Remarks about Individual Work Samples
+- Overall remarks after reviewing student work samples?
+- Particularly interesting work samples?
 
 #### Modeling vs Inference
 
