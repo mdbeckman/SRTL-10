@@ -18,12 +18,6 @@ output: slidy_presentation
 
 ## Outline
 
-#### Please note or scan URL for use later on in the session: 
-
-#### [https://mdbeckman.github.io/SRTL-10/](https://mdbeckman.github.io/SRTL-10/)
-
-<a rel='nofollow' href='http://www.qrcode-generator.de' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fmdbeckman.github.io%2FSRTL-10%2F&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
-
 - (5 mins) introduction/refresher
 - (10-12 mins) Small groups (3) review a random subset of student work samples
 - (0-5 mins) Large group sharing for observations about individual work samples reviewed 
@@ -34,8 +28,8 @@ output: slidy_presentation
 Assessment tasks in introductory statistics often present data in context and ask students and describe an appropriate model. 
 
 This study explores an alternative task adapted from Rossman & Chance (2001) [^1] that  
-- explicitly presents students an elementary abstract model relating sample, population, statistic, & parameter and then  
-- prompts the student to assimilate these concepts into a **context of their own devising**. 
+- explicitly presents an abstract model relating sample, population, statistic, & parameter, and then  
+- prompts the student to assimilate these concepts into a context **of their own devising**. 
 
 The study data consist of free-text narrative responses from a (inter)national sample of more than 1600 introductory statistics students from the United States (and one class section from the Netherlands).  
 
@@ -57,7 +51,7 @@ We want to explore what responses to the Rossman-Chance Task can tell us about t
 <br>
 
 #### Definition
-For the purpose of this study, “statistical model” can be understood to mean a statistical approximation designed to extract or explain the underlying structure of a data generating process (e.g., McCullagh, 2002; Graham, 2006)[^2][^3]  
+For the purpose of this study, “statistical model” can be understood to mean a statistical approximation designed to extract or explain the underlying structure of a data generating process (e.g., McCullagh, 2002; Graham, 2006) [^2] [^3]  
 
 
 [^2]: McCullaugh, P. (2002). What is a Statistical Model? *The Annals of Statistics 30*(5), 1225-1310.

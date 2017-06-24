@@ -11,16 +11,20 @@ Bob delMas
 
 ## Presentation Resources
 
-### Please note or scan URL for use during the session: 
+### Presentation webpage (also appears in handout): 
 ### [https://mdbeckman.github.io/SRTL-10/](https://mdbeckman.github.io/SRTL-10/)
 
 <a rel='nofollow' href='http://www.qrcode-generator.de' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fmdbeckman.github.io%2FSRTL-10%2F&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
 
-### [Link to Slides](BeckmanSlidesSRTL10.html)
+### Slides [(Link)](BeckmanSlidesSRTL10.html)
 
-### [Link to Handout](handoutDocs/Handout.pdf)
+### Handout [(Link)](handoutDocs/Handout.pdf)
 
 <!-- ### [Link to Scoring Guidance](handoutDocs/RC_Scoring_Guidance.html) -->
+
+### Large Group Discussion [(Link)](https://docs.google.com/document/d/1scPx7FBYCHbbO-bMWuNjGOr0GVFyASemOd0wTO26h4U/edit?usp=sharing)
+
+<br>
 
 ## Student Work Sample Remarks:
 
@@ -37,4 +41,3 @@ Please review work samples in the randomized order provided to your group.  Each
 [9. **Olivia's** (Link)](https://docs.google.com/document/d/1s2ySyO-lAvPd-m4ulEoggGaBV-WMVhdp_g0yKwne4W0/edit?usp=sharing)  
 
 
-### [Large Group Discussion (Link)](https://docs.google.com/document/d/1scPx7FBYCHbbO-bMWuNjGOr0GVFyASemOd0wTO26h4U/edit?usp=sharing)
