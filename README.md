@@ -19,6 +19,9 @@ Bob delMas
 
 ### [Link to Handout](handoutDocs/Handout.pdf)
 
+### [Link to Scoring Guidance](handoutDocs/RC_Scoring_Guidance.html)
+<!-- ### [Link to Scoring Guidance](handoutDocs/RC_Scoring_Guidance.html) -->
+
 ## Student Work Samples for Review:
 
 [1. Amelia](https://docs.google.com/document/d/1H-b_YiKETfPPqCRAWdWHFzBdoIGETg5sCb1xWlb-MnY/edit?usp=sharing)  
