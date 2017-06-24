@@ -17,7 +17,7 @@ Bob delMas
 
 ### [Link to Slides](BeckmanSlidesSRTL10.html)
 
-### [Link to Handout](Handout.pdf)
+### [Link to Handout](handoutDocs/Handout.pdf)
 
 ## Student Work Samples for Review:
 
