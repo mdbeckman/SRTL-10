@@ -10,7 +10,7 @@ author: |
   
 date: |
   | <br>
-  | **10th International Research Forum on Statistical Reasoning, Thinking, & Literacy**
+  | **SRTL-10**
   | Rotorua, New Zealand
   | July 4, 2017
 output: slidy_presentation
@@ -22,7 +22,7 @@ Assessment tasks in introductory statistics often present data in context and as
 
 This study explores an alternative task adapted from Rossman & Chance (2001) [^1] that  
 - explicitly presents students an elementary abstract model relating sample, population, statistic, & parameter and then  
-- prompts the student to assimilate these concepts into a **context of their own invention**. 
+- prompts the student to assimilate these concepts into a **context of their own devising**. 
 
 The study data consist of free-text narrative responses from a (inter)national sample of more than 1600 introductory statistics students from the United States (and one class section from the Netherlands).  
 
@@ -68,25 +68,32 @@ For the purpose of this study, “statistical model” can be understood to mean
     - 259 clear attempts (includes context & apparent research question devised by student)
 
 
-## Student work samples
+## Student Work Samples
 
 - Work together in groups of 3 
-- Everyone has a handout showing 9 student responses  
-- **Each group has a random sequence to review** (try to do 3, but continue if there's time)
-- **Please make notes in the Google Doc for each student as you review**
+- Everyone has a handout showing 9 student responses   
+- Each group assigned a different subset to review 
+    - **Please make notes in the Google Doc for each student as you review**
+    - aim to complete 3, but please continue if time permits
     - try not to spend more than 3-4 min on any individual response
-    - devote more attention big picture "stages of development" and "emergent understanding" rather than the nuance of what students attribute to each concept 
+- focus on big picture (questions 2-4) rather than the nuance of what students attribute to each concept 
 - After ~10 minutes we'll reconvene for large group discussion of: 
     - interesting observations from individual work samples
     - the nature of modeling & inference
     - implications for teaching & assessment
 
+#### [Webpage link (Google Docs & Handout)]()
+
+<a rel='nofollow' href='http://www.qrcode-generator.de' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fmdbeckman.github.io%2FSRTL-10%2F&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
+
+
 #### Questions while reviewing work samples (**please note remarks in Google Doc**):
 
-- To what concepts do students seem to attribute the sample, population, statistic, and parameter?
-- What does this say (if anything) about stages of development among students?
-- What does this say about emergent understanding related to modeling?
-- What does this say about emergent understanding related to inference?
+1. To what concepts do students seem to attribute the sample, population, statistic, and parameter?
+2. What does this say (if anything) about stages of development among students?
+3. What does this say about emergent understanding related to modeling?
+4. What does this say about emergent understanding related to inference?
+
 
 ## Discussion Questions 
 
