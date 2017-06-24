@@ -25,13 +25,13 @@ output: slidy_presentation
 
 ## Introduction 
 
-Assessment tasks in introductory statistics often present data in context and ask students and describe an appropriate model. 
-
-This study explores an alternative task adapted from Rossman & Chance (2001) [^1] that  
-- explicitly presents an abstract model relating sample, population, statistic, & parameter, and then  
-- prompts the student to assimilate these concepts into a context **of their own devising**. 
-
-The study data consist of free-text narrative responses from a (inter)national sample of more than 1600 introductory statistics students from the United States (and one class section from the Netherlands).  
+- Assessment tasks in introductory statistics often present data or context and ask students to do or describe something based on the **provided context**.  
+- This study explores an alternative task adapted from Rossman & Chance (2001) [^1] which  
+    - explicitly presents an abstract model relating sample, population, statistic, & parameter, and then  
+    - prompts the student to assimilate these concepts into a **context of their own devising**.  
+- The study data consist of free-text narrative responses from a (inter)national sample  
+    - more than total 1600 introductory statistics students participated 
+    - a random subset have been reviewed
 
 [^1]: Rossman, A. J., & Chance, B. L. (2001). *Workshop statistics: Discovery with data* (2nd ed.). Emeryville, CA: Key College Publishing.
 
@@ -69,8 +69,8 @@ For the purpose of this study, “statistical model” can be understood to mean
     - 14 different instructors  
     - 15 institutions  
     - 16 unique courses  
-    - 29 total class sections  
-- Scoring progress
+    - 29 total class sections (all except one were from U.S.)  
+- Scoring progress to date
     - simple random sample of 310 (and counting) out of 1622 
     - 259 clear attempts (includes context & apparent research question devised by student)
 
@@ -101,6 +101,31 @@ For the purpose of this study, “statistical model” can be understood to mean
 3. What does this say about emergent understanding related to modeling?
 4. What does this say about emergent understanding related to inference?
 
+<!-- whitespace for scrolling content to top of screen in presentation --> 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+. <!-- scroll anchor for web viewing in presentation -->
 
 ## Discussion Questions 
 
@@ -118,6 +143,10 @@ For the purpose of this study, “statistical model” can be understood to mean
 
 - What does all of this mean (if anything) for **teaching practice**?
 - What does all of this mean (if anything) for **assessment**?
+
+<br>
+
+#### Discussion Notes [(Link)](https://docs.google.com/document/d/1scPx7FBYCHbbO-bMWuNjGOr0GVFyASemOd0wTO26h4U/edit?usp=sharing)
 
 
 ## Backup Slides
