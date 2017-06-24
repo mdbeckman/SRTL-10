@@ -32,7 +32,7 @@ The study data consist of free-text narrative responses from a (inter)national s
 
 The RC task as it would have appeared to students during the ISTUDIO assessment:
 
-![](RC-Task.png)
+![](images/RC-Task.png) 
 
 
 ## Objective
@@ -103,6 +103,23 @@ For the purpose of this study, “statistical model” can be understood to mean
 
 
 ## Backup Slides
+
+
+## Confusion matrix: sample & population (n = 259)
+
+![](images/Fig2SampPopConfMat.png)
+
+
+## Confusion matrix: statistic & parameter (n = 259)
+
+![](images/Fig3StatParamUnrestrictedConfMat.png) 
+
+
+## Confusion matrix: statistic & parameter given sample & population (n = 259)
+
+![](images/Fig4StatParamPartialConfMat.png)
+
+
 
 ## 1. Amelia (R_3saVYW3fYN5W2mn)
 
@@ -190,16 +207,4 @@ For the purpose of this study, “statistical model” can be understood to mean
 - remarks about the need for a large sample size as an accommodation for a large population
 - intends to use "z-test" to calculate probabilities for several events of interest
 
-
-## Confusion matrix: sample & population (n = 310)
-
-![](Fig2SampPopConfMat.png)
-
-## Confusion matrix: statistic & parameter (n = 310)
-
-![](Fig3StatParamUnrestrictedConfMat.png)
-
-## Confusion matrix: statistic & parameter given sample & population (n = 310)
-
-![](Fig4StatParamPartialConfMat.png)
 
