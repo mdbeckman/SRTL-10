@@ -19,7 +19,6 @@ Bob delMas
 
 ### [Link to Handout](handoutDocs/Handout.pdf)
 
-### [Link to Scoring Guidance](handoutDocs/RC_Scoring_Guidance.html)
 <!-- ### [Link to Scoring Guidance](handoutDocs/RC_Scoring_Guidance.html) -->
 
 ## Student Work Samples for Review:
