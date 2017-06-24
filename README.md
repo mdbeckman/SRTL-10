@@ -11,7 +11,7 @@ Bob delMas
 
 ## Presentation Resources
 
-### Please note or scan URL for use during the session: 
+### Please note or scan this URL for use during the session: 
 ### [https://mdbeckman.github.io/SRTL-10/](https://mdbeckman.github.io/SRTL-10/)
 
 <a rel='nofollow' href='http://www.qrcode-generator.de' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fmdbeckman.github.io%2FSRTL-10%2F&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
