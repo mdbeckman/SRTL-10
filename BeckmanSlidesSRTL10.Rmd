@@ -51,7 +51,7 @@ We want to explore what responses to the Rossman-Chance Task can tell us about t
 <br>
 
 #### Definition
-For the purpose of this study, “statistical model” can be understood to mean a statistical approximation designed to extract or explain the underlying structure of a data generating process (e.g., McCullagh, 2002; Graham, 2006) [^2] [^3]  
+For the purpose of this study, “statistical model” can be understood to mean a statistical approximation designed to extract or explain [describe] the underlying structure of a data generating process (e.g., McCullagh, 2002; Graham, 2006) [^2] [^3]  
 
 
 [^2]: McCullaugh, P. (2002). What is a Statistical Model? *The Annals of Statistics 30*(5), 1225-1310.
@@ -77,7 +77,7 @@ For the purpose of this study, “statistical model” can be understood to mean
 
 ## Student Work Samples
 
-- Work together in groups of 3 
+- Work together in groups of 2-3 
 - Everyone has a handout showing 9 student responses   
 - Each group assigned a different subset to review 
     - **Please make notes in the Google Doc for each student as you review**
