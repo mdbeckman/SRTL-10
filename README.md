@@ -1,4 +1,4 @@
-## Assessing student understanding of statistical models connecting data, chance, and context
+## Assessing student understanding of statistical models connecting data, chance, and context.
 
 Matt Beckman (presenter)  
 *Penn State University (USA)*
